@@ -34,7 +34,7 @@ MailMiner is a powerful python developed tool for searching and harvesting email
 
 ## Examples
 
-#### Search for email addresses related to a specific domain:
+### Search for email addresses related to a specific domain:
 
        python3 mail_miner.py --host https://www.example.com/
 ### Search for email addresses related to a specific website with a custom maximum URL limit:
