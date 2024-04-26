@@ -51,7 +51,10 @@ MailMiner is a powerful python developed tool for searching and harvesting email
 #### MailMiner is licensed under the MIT License. See the LICENSE file for details.
 
 ## Author 
-MailMiner is created by Anujaya Bhattarai(CrazyAnonymous7)
+### MailMiner is created by :
+#### Anujaya Bhattarai(CrazyAnonymous7)
+#### ceo@trexif.com
+#### TREXIF INCORPORATIONS
 
 ## Contributions
 
